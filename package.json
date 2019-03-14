@@ -1,19 +1,21 @@
 {
-  "name": "blockchain-day1",
+  "name": "stop-loss",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pausing Smart Contracts and the benefits it brings. Multi-party-consensus and how it protects contract data",
   "directories": {
     "test": "test"
   },
-  "repository": "https://github.com/techbubble/blockchain-day1",
+  "repository": "https://github.com/bernestoalberto/stop_loss.git",
   "license": "MIT",
   "scripts": {
     "test": "truffle test test/ExerciseC6A.js"
   },
-  "author": "Nik Kalyani <nik@kalyani.com> https://www.kalyani.com",
+  "author": "Ernesto Bonet <ebonet@eabonet.com> https://www.eabonet.com",
   "devDependencies": {
-    "truffle": "^4.1.14",
-    "truffle-hdwallet-provider": "^0.0.5"
+    "truffle": "^4.1.15",
+    "truffle-hdwallet-provider": "0.0.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "compile": "0.0.2"
+  }
 }
