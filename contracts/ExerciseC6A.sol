@@ -63,6 +63,21 @@ contract ExerciseC6A {
     }
 
 
+    
+    /**
+    * @dev Get operating status of contract
+    *
+    * @return A bool that is the current operating status
+    */      
+    function isOperational() 
+                            public 
+                            view 
+                            returns(bool) 
+    {
+        return operational;
+    }
+
+
     /********************************************************************************************/
     /*                                       UTILITY FUNCTIONS                                  */
     /********************************************************************************************/

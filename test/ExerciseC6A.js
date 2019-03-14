@@ -1,5 +1,5 @@
 
-//var Test = require('../config/testConfig.js');
+var Test = require('../config/testConfig.js');
 
 contract('ExerciseC6A', async (accounts) => {
 
