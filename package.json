@@ -1,0 +1,21 @@
+{
+  "name": "stop-loss",
+  "version": "1.0.0",
+  "description": "Pausing Smart Contracts and the benefits it brings. Multi-party-consensus and how it protects contract data",
+  "directories": {
+    "test": "test"
+  },
+  "repository": "https://github.com/bernestoalberto/stop_loss.git",
+  "license": "MIT",
+  "scripts": {
+    "test": "truffle test test/ExerciseC6A.js"
+  },
+  "author": "Ernesto Bonet <ebonet@eabonet.com> https://www.eabonet.com",
+  "devDependencies": {
+    "truffle": "^4.1.15",
+    "truffle-hdwallet-provider": "0.0.5"
+  },
+  "dependencies": {
+    "compile": "0.0.2"
+  }
+}

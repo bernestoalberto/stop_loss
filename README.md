@@ -1,5 +1,5 @@
-## Blockchain Course 6 Exercises
-
+## Blockchain 
+stop_loss
 To install, download or clone the repo, then move to the required exercise branch with either:
 
 - `git checkout ExerciseC6A`
