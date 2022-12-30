@@ -13,7 +13,7 @@
   "author": "Ernesto Bonet <ebonet@eabonet.com> https://www.eabonet.com",
   "devDependencies": {
     "truffle": "^4.1.15",
-    "truffle-hdwallet-provider": "0.0.5"
+    "truffle-hdwallet-provider": "1.0.17"
   },
   "dependencies": {
     "compile": "0.0.2"
